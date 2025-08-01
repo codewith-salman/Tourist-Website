@@ -4,7 +4,7 @@
 <div align="center">
   <h1>🌍 YourTour – Tourist Website</h1>
   <p>A modern and visually appealing tourist website UI designed to inspire and guide users to explore travel destinations.</p>
-  <img src="Tourist%20Website/assets/images/screenshot.PNG" alt="YourTour Website Screenshot" width="700"/>
+  <img src="Tourist%20Website/assets/images/screenshot.PNG" alt="YourTour Website Screenshot" width="100%"/>
 </div>
 
 ---
