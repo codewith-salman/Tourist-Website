@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO / PREVIEW -->
-<img src="Tourist%20Website/assets/images/screenshot.PNG" alt="YourTour Logo" width="200"/>
+<img src="Tourist%20Website/favicon.svg" alt="YourTour Logo" width="120"/>
 
 <br />
 <br />
