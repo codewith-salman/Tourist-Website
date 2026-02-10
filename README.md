@@ -2,39 +2,100 @@
 
 <br />
 <div align="center">
-  <h1>🌍 YourTour – Tourist Website</h1>
-  <p>A modern and visually appealing tourist website UI designed to inspire and guide users to explore travel destinations.</p>
-  <img src="Tourist%20Website/assets/images/screenshot.PNG" alt="YourTour Website Screenshot" width="100%"/>
+
+<!-- 🔰 BADGES -->
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/tourist-website)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/tourist-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/tourist-website?style=social)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://tourist-website-bice.vercel.app/)
+
+[![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
+[![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
+[![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
+
+<br />
+
+<!-- 🔰 PROJECT LOGO / PREVIEW -->
+<img src="Tourist%20Website/assets/images/screenshot.PNG" alt="YourTour Logo" width="200"/>
+
+<br />
+<br />
+
+<h1 align="center">🌍 YourTour – Tourist Website</h1>
+
+A modern and visually appealing **tourist website UI**  
+designed to inspire users to explore travel destinations and adventures.
+
 </div>
 
 ---
 
-## About The Project
+<!-- 📑 TABLE OF CONTENTS -->
+<details>
+  <summary>📑 Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-**YourTour** is a visually-rich and responsive tourist website created to promote travel experiences and destinations. The design reflects adventure, simplicity, and accessibility — perfect for tour operators, travel startups, and tourism-related platforms.
+---
 
-The layout is crafted to highlight popular travel spots, call-to-actions for booking, customer testimonials, and service features. Built as a front-end project, it’s ideal for portfolio use, UI presentation to clients, or prototyping travel startup ideas.
+## 📖 About The Project
 
-The project is optimized for responsive display and includes smooth visual elements, modern design components, and brand-consistent layout strategies — offering an engaging user experience for travel lovers.
+<img src="Tourist%20Website/assets/images/screenshot.PNG" alt="YourTour Website Screenshot" width="100%" />
 
-### Built With
+**YourTour** is a visually rich and fully responsive tourist website built to promote travel destinations and experiences.  
+The project focuses on clean UI, engaging visuals, and smooth layout flow to deliver an immersive travel experience.
 
-- HTML5  
-- CSS3
+This project is ideal for:
+- Travel agencies  
+- Tourism startups  
+- UI/UX portfolio projects  
+- Front-end design demos  
 
-### Features
+It highlights destinations, promotions, testimonials, and call-to-action sections while maintaining strong visual hierarchy and brand consistency.
 
-- Responsive and clean layout  
-- Hero section with travel CTA  
+This is a **front-end only project**, created for UI practice, client demos, and portfolio showcasing.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+## ✨ Features
+
+- Clean and modern travel UI  
+- Fully responsive design  
+- Hero section with strong travel CTA  
 - Destination highlights and offers  
 - Interactive buttons and hover effects  
 - Testimonial and service sections  
-- SEO-friendly structure for client demos  
+- SEO-friendly layout structure  
 
-### Contact
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-**Muhammad Salman Arshad**  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-salmanarshad/)  
-📧 [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+---
 
-<p align="right">(<a href="#top">Back to Top</a>)</p>
+## 🛠️ Built With
+
+- **HTML5**  
+- **CSS3**
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+## 📬 Contact
+
+**Muhammad Salman Arshad**
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/  
+- 🎨 **Figma:** https://www.figma.com/@codewithsalman  
+- 💻 **GitHub:** https://github.com/codewith-salman  
+- 📧 **Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
