@@ -21,7 +21,6 @@
 <img src="Tourist%20Website/favicon.svg" alt="YourTour Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">🌍 YourTour – Tourist Website</h1>
 
@@ -67,8 +66,6 @@ This project is ideal for:
 
 This is a **front-end only project**, built for learning, UI practice, and portfolio showcasing — no backend integration included.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -80,8 +77,6 @@ This is a **front-end only project**, built for learning, UI practice, and portf
 - Smooth hover effects and UI interactions  
 - Clean and professional visual design  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -90,8 +85,6 @@ This project is built using:
 
 - **HTML5**  
 - **CSS3**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
